@@ -38,7 +38,7 @@
 
 
 <!-- Display contact form -->
-<form method="post" action="enviar.php" enctype="multipart/form-data">
+<form method="post" action="/php/enviar.php" >
 	<div class="form-group">
 		<label for="nombre">Nombre</label>
 		<input type="text" class="form-control" name='nombre' id="nombre" placeholder="nombre...">
